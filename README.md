@@ -16,10 +16,10 @@ First install [Node.js](https://nodejs.org/en/) Then:
 
 ```js
 // Using Node.js "require()"
-const mongoose = require("mongoose");
+const rsa = require("random-stuff-api");
 
 // Using ES6 imports
-import mongoose from 'mongoose';
+import rsa from 'random-stuff-api';
 ```
 
 ## Example

@@ -15,10 +15,11 @@ First install [Node.js](https://nodejs.org/en/) Then:
 ## Importing
 
 ```// Using Node.js "require()"
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 // Using ES6 imports
-import mongoose from 'mongoose';```
+import mongoose from 'mongoose';
+```
 
 ## Example
 

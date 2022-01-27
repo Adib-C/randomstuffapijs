@@ -14,7 +14,8 @@ First install [Node.js](https://nodejs.org/en/) Then:
 
 ## Importing
 
-```// Using Node.js "require()"
+```js
+// Using Node.js "require()"
 const mongoose = require("mongoose");
 
 // Using ES6 imports
@@ -23,7 +24,8 @@ import mongoose from 'mongoose';
 
 ## Example
 
-```
+```js
+
 const rsa = require("random-stuff-api")
 const client = new rsa.client({
   Authorization: "Your API Key",
